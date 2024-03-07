@@ -7,7 +7,7 @@
 
 🇬🇧 **You are viewing the content of the repository in English**
 
-:es: *[Versión en español aquí](https://github.com/simanfor/introduccion/blob/main/english/)*
+:es: *[Versión en español aquí](https://github.com/simanfor/introduccion/blob/main/)*
 
 ---
 
@@ -20,7 +20,7 @@ In this repository, you will find introductory documentation about how SIMANFOR 
 ## :scroll: Content
 
 * :book: :es: **SIMANFOR_introduccion.pdf**: Introduction to the operation of SIMANFOR in Spanish.
-* :book: 🇬🇧 **SIMANFOR_introduccion_EN.pdf**: Introduction to the operation of SIMANFOR in English.
+* :book: 🇬🇧 **english/SIMANFOR_introduction.pdf**: Introduction to the operation of SIMANFOR in English.
 
 ---
 

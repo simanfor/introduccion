@@ -20,7 +20,7 @@ En este repositorio encontrarás documentación introductoria acerca del funcion
 ## :scroll: Contenido
 
 * :book: :es: **SIMANFOR_introduccion.pdf**: introducción al funcionamiento de SIMANFOR en español. 
-* :book: 🇬🇧 **SIMANFOR_introduccion_EN.pdf**: introducción al funcionamiento de SIMANFOR en inglés. 
+* :book: 🇬🇧 **english/SIMANFOR_introduction.pdf**: introducción al funcionamiento de SIMANFOR en inglés. 
 
 ---
 
